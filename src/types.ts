@@ -2,7 +2,7 @@ import {
   ReturningLogFinderTransformer,
   LogFinderRule,
   LogFragment,
-} from "@terra-money/log-finder"
+} from "@terra-rebels/log-finder"
 
 export interface Action {
   msgType: string

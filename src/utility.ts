@@ -1,4 +1,4 @@
-import { ReturningLogFinderResult } from "@terra-money/log-finder"
+import { ReturningLogFinderResult } from "@terra-rebels/log-finder"
 import {
   Action,
   Amount,
