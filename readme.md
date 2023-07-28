@@ -14,7 +14,7 @@ import {
   getTxAmounts
 } from "@terra-rebels/log-finder-ruleset"
 
-// https://phoenix-lcd.terra.dev/cosmos/tx/v1beta1/txs/:txhash
+// https://lcd.terrarebels.net/cosmos/tx/v1beta1/txs/:txhash
 const tx = {
   "height": ...,
   "txhash": ...,
