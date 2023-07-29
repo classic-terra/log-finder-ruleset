@@ -1,4 +1,4 @@
-# @terra-rebels/log-finder-ruleset
+# @terraclassic-community/log-finder-ruleset
 
 Terra standard ruleset for well known log patterns
 
@@ -12,9 +12,9 @@ import {
   createLogMatcherForAmounts,
   getTxCanonicalMsgs,
   getTxAmounts
-} from "@terra-rebels/log-finder-ruleset"
+} from "@terraclassic-community/log-finder-ruleset"
 
-// https://lcd.terrarebels.net/cosmos/tx/v1beta1/txs/:txhash
+// https://lcd.hexxagon.io/cosmos/tx/v1beta1/txs/:txhash
 const tx = {
   "height": ...,
   "txhash": ...,

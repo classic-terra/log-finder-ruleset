@@ -1,9 +1,9 @@
 {
-  "name": "@terra-rebels/log-finder-ruleset",
-  "version": "1.0.0",
+  "name": "@terraclassic-community/log-finder-ruleset",
+  "version": "3.0.0",
   "description": "Terra standard ruleset for well known log patterns",
   "main": "dist/index.js",
-  "author": "Terra Rebels",
+  "author": "Terra Classic Community",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
@@ -16,10 +16,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/terra-rebels/log-finder-ruleset.git"
+    "url": "git://github.com/classic-terra/log-finder-ruleset.git"
   },
   "dependencies": {
-    "@terra-rebels/log-finder": "^1.0.0"
+    "@terraclassic-community/log-finder": "^1.1.6"
   },
   "devDependencies": {
     "@types/node": "^18.0.4",

@@ -1,4 +1,4 @@
-import { createReturningLogFinder } from "@terra-rebels/log-finder"
+import { createReturningLogFinder } from "@terraclassic-community/log-finder"
 import {
   LogFindersAmountRuleSet,
   LogFindersActionRuleSet,
